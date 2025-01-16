@@ -1,0 +1,33 @@
+{
+  "name": "Frugal Friend",
+  "short_name": "FF",
+  "description": "To Chantal, the love of my life",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#9C27B0",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/BdvDqOW.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.imgur.com/BdvDqOW.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.imgur.com/BdvDqOW.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple touch"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false,
+  "scope": "/"
+}
